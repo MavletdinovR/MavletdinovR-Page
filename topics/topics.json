@@ -1,56 +1,56 @@
 [
-    {
-        "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
-    },
-    {
-        "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
-    },
-    {
-        "id": 3,
-        "title": "Лабораторная 1",
-        "description": "Разметка личной страницы, разработка UML Use Case",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    },
-    {
-        "id": 4,
-        "title": "Лабораторная 2",
-        "description": "Заполнение личной страницы, разработка UML Class",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    },
-    {
-        "id": 5,
-        "title": "Лабораторная 3",
-        "description": "Реализация мини-приложения SPA, разработка UML Sequence",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    },
-    {
-        "id": 6,
-        "title": "Лабораторная 4",
-        "description": "Реализация приложения на Angular 7, разработка UML Component",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    },
-    {
-        "id": 7,
-        "title": "Лабораторная 5",
-        "description": "Разработка алгоритма и описания процедуры в выбранном проекте",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    },
-    {
-        "id": 8,
-        "title": "Лабораторная 6",
-        "description": "Разработка процедуры на JS в выбранном проекте",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    },
-    {
-        "id": 9,
-        "title": "Лабораторная 7",
-        "description": "Разработка unit-теста процедуры в выбранном проекте",
-        "preview": "img/290f7c3be0fc02b.jpg"
-    }
+  {
+    "id": 1,
+    "title": "UML Use Case",
+    "description": "Диаграмма прецедента",
+    "preview": "img/use-case-diagram.png"
+  },
+  {
+    "id": 2,
+    "title": "UML Class",
+    "description": "Диаграмма классов",
+    "preview": "img/class-diagram.png"
+  },
+  {
+    "id": 3,
+    "title": "Лабораторная 1",
+    "description": "Разметка личной страницы, разработка UML Use Case",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Лабораторная 2",
+    "description": "Заполнение личной страницы, разработка UML Class",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Лабораторная 3",
+    "description": "Реализация мини-приложения SPA, разработка UML Sequence",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Лабораторная 4",
+    "description": "Реализация приложения на Angular 7, разработка UML Component",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Лабораторная 5",
+    "description": "Разработка алгоритма и описания процедуры в выбранном проекте",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Лабораторная 6",
+    "description": "Разработка процедуры на JS в выбранном проекте",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Лабораторная 7",
+    "description": "Разработка unit-теста процедуры в выбранном проекте",
+    "preview": "img/290f7c3be0fc02b.jpg"
+  }
 ]
