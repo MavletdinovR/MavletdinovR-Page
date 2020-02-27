@@ -10,8 +10,7 @@
                 }
             ]
             "type": "image",
-            "data":"img/uml.png"              
-            ]
+            "data": "img/uml.png"                          
         },
         {
             "type": "text",
