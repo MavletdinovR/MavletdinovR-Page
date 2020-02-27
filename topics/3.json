@@ -9,6 +9,9 @@
                     "class": "md-title"
                 }
             ]
+            "type": "image",
+            "data":"img/uml.png"              
+            ]
         },
         {
             "type": "text",
