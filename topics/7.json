@@ -1,0 +1,14 @@
+{
+    "title": "Проект. Задача №7 ABC",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Ссылочка тутя",                 
+                    "link": "https://plantuml.com"
+                }
+            ]
+        }                                         
+]        
+}
